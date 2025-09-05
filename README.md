@@ -16,7 +16,7 @@ This project is a **Turn-Based Role-Playing Game (TBRPG)** set in a dungeon envi
 - **Player Progression**: Level up your character, gain experience, and improve stats
 - **Dungeon Generation**: Explore procedurally generated dungeon layouts
 - **Inventory Management**: Collect and manage items throughout your adventure  
-- **Multiple Game Areas**: Navigate between different scenes including Courtyard, Dungeon, and House
+- **Multiple Game Areas**: Navigate between different scenes, including Courtyard, Dungeon, and House
 - **Battle HUD**: Intuitive user interface for combat encounters
 - **Scene Management**: Seamless transitions between different game areas
 
@@ -39,7 +39,7 @@ This project is a **Turn-Based Role-Playing Game (TBRPG)** set in a dungeon envi
 
 3. **Check Dependencies**:
    - Unity should automatically import required packages
-   - Verify that DOTween plugin is properly imported in `Assets/Plugins/Demigiant/DOTween`
+   - Verify that the DOTween plugin is properly imported in `Assets/Plugins/Demigiant/DOTween`
 
 4. **Run the Game**:
    - Open any scene from `Assets/Scenes/` (start with `Courtyard.unity` for the main experience)
@@ -75,7 +75,9 @@ We welcome contributions to improve the game! Please follow these guidelines:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-This project is developed as a class assignment. Please contact the group members for usage permissions.
+## Author(s)
 
-
+- [**Ethan Townsend (snxethan)**](www.ethantownsend.dev)
+- Victor Keeler
+- Jacob Brincefield
+- Gunnar Huscroft
